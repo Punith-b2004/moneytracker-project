@@ -61,7 +61,7 @@ http://localhost:5000/
 
 ## Demo Video
 
-[Watch the Demo Video](https://github.com/Punith-b2004/moneytracker-project/raw/main/public/demo.mp4)
+[Watch the Demo Video](https://github.com/Punith-b2004/moneytracker-project/raw/main/public/moneytracker.mp4)
 
 
 ![Money Tracker Demo](public/demo.mp4)
