@@ -62,6 +62,8 @@ http://localhost:5000/
 ## Demo Video
 
 [Watch the Demo Video](https://github.com/Punith-b2004/moneytracker-project/raw/main/public/moneytracker.mp4)
+
+
 [Youtube link:](https://youtu.be/TR2KzQkT5tE?si=UGqMSAw3FWsdN8FP)
 
 
