@@ -75,8 +75,5 @@ http://localhost:5000/
 - Enable **data export** to CSV or PDF.
 
 Contact
-📧 Email: puneethgowda91081@gmail.com 🔗 LinkedIn: (https://www.linkedin.com/in/punith-b-aa264b282/)
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+📧 Email: puneethgowda91081@gmail.com 🔗 LinkedIn: (https://www.linkedin.com/in/punith-b-aa264b282
 
