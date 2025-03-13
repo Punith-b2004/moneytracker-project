@@ -74,8 +74,8 @@ http://localhost:5000/
 - Add **user authentication** to store personalized data.
 - Enable **data export** to CSV or PDF.
 
-## Author
-**Punith**
+Contact
+📧 Email: puneethgowda91081@gmail.com 🔗 LinkedIn: (https://www.linkedin.com/in/punith-b-aa264b282/)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
